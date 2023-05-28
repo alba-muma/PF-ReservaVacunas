@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_cancel_appointment_tests.CancelAppointmentTests-20220523214807" tests="17" file="test_cancel_appointment_tests.py" time="0.528" timestamp="2022-05-23T21:48:08" failures="0" errors="0" skipped="0">
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test10_ok_vl_reason" time="0.037" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test11_ok_vl_reason" time="0.010" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test12_ok_vl_reason" time="0.009" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test13_ok" time="0.011" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test14_not_ok" time="0.010" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test2_not_ok" time="0.006" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test3_not_ok" time="0.010" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test4_0_setup" time="0.007" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test4_1_not_ok" time="0.006" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test4_2_0_setup" time="0.006" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test4_2_1_not_ok" time="0.005" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test5_ok" time="0.008" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test6_ok" time="0.010" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test7_not_ok_vl_reason" time="0.008" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test8_not_ok_vl_reason" time="0.007" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test9_ok_vl_reason" time="0.008" timestamp="2022-05-23T21:48:08"/>
+	<testcase classname="test_cancel_appointment_tests.CancelAppointmentTests" name="test_cancel_appointment_no_ok_parameter2" time="0.370" timestamp="2022-05-23T21:48:08"/>
+</testsuite>

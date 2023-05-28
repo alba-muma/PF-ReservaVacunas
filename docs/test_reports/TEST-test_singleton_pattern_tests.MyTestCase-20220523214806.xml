@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_singleton_pattern_tests.MyTestCase-20220523214806" tests="5" file="test_singleton_pattern_tests.py" time="0.003" timestamp="2022-05-23T21:48:07" failures="0" errors="0" skipped="0">
+	<testcase classname="test_singleton_pattern_tests.MyTestCase" name="test_singleton_appointments_json_store" time="0.000" timestamp="2022-05-23T21:48:07"/>
+	<testcase classname="test_singleton_pattern_tests.MyTestCase" name="test_singleton_cancel_json_store" time="0.001" timestamp="2022-05-23T21:48:07"/>
+	<testcase classname="test_singleton_pattern_tests.MyTestCase" name="test_singleton_patients_json_store" time="0.001" timestamp="2022-05-23T21:48:07"/>
+	<testcase classname="test_singleton_pattern_tests.MyTestCase" name="test_singleton_vaccination_json_store" time="0.001" timestamp="2022-05-23T21:48:07"/>
+	<testcase classname="test_singleton_pattern_tests.MyTestCase" name="test_singleton_vaccine_manager" time="0.000" timestamp="2022-05-23T21:48:07"/>
+</testsuite>
